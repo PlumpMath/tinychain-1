@@ -1,0 +1,17 @@
+/Users/niklaslundback/Projects/tinychain/tinychain/bin/Debug/tinychain.exe
+/Users/niklaslundback/Projects/tinychain/tinychain/bin/Debug/tinychain.pdb
+/Users/niklaslundback/Projects/tinychain/tinychain/obj/x86/Debug/tinychain.csproj.CoreCompileInputs.cache
+/Users/niklaslundback/Projects/tinychain/tinychain/obj/x86/Debug/tinychain.exe
+/Users/niklaslundback/Projects/tinychain/tinychain/obj/x86/Debug/tinychain.pdb
+/Users/niklaslundback/Code/C#Projects/tinychain/tinychain/bin/Debug/tinychain.exe
+/Users/niklaslundback/Code/C#Projects/tinychain/tinychain/bin/Debug/tinychain.pdb
+/Users/niklaslundback/Code/C#Projects/tinychain/tinychain/obj/x86/Debug/tinychain.csproj.CoreCompileInputs.cache
+/Users/niklaslundback/Code/C#Projects/tinychain/tinychain/obj/x86/Debug/tinychain.exe
+/Users/niklaslundback/Code/C#Projects/tinychain/tinychain/obj/x86/Debug/tinychain.pdb
+C:\Users\Obscura-Johan\Desktop\tinychain\tinychain\bin\Debug\tinychain.exe
+C:\Users\Obscura-Johan\Desktop\tinychain\tinychain\bin\Debug\tinychain.pdb
+C:\Users\Obscura-Johan\Desktop\tinychain\tinychain\obj\x86\Debug\tinychain.csprojResolveAssemblyReference.cache
+C:\Users\Obscura-Johan\Desktop\tinychain\tinychain\obj\x86\Debug\tinychain.exe
+C:\Users\Obscura-Johan\Desktop\tinychain\tinychain\obj\x86\Debug\tinychain.pdb
+C:\Users\Obscura-Johan\Desktop\tinychain\tinychain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Obscura-Johan\Desktop\tinychain\tinychain\bin\Debug\Newtonsoft.Json.xml

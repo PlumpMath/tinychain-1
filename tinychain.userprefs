@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E6EAAE82-C289-45C1-ADA8-DCF679649388}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tinychain Status">
+    <Files>
+      <File FileName="tinychain/Program.cs" Line="58" Column="58" />
+      <File FileName="tinychain/Networking.cs" Line="37" Column="5" />
+      <File FileName="tinychain Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.tinychain PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
